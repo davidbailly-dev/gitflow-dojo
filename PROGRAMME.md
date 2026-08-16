@@ -108,3 +108,4 @@ Un scénario complet, enchaîné sans étapes détaillées cette fois — à toi
 *(mis à jour au fil des sessions Claude Code)*
 
 - **Jour 1** — 2026-08-16 : dépôt GitHub `gitflow-dojo` créé et relié en local (SSH déjà configuré au préalable), branche par défaut `main`, `.gitignore` ajouté, premier commit poussé. Remarque : git, SSH et `init.defaultBranch` étaient déjà configurés globalement sur la machine, donc étapes rapides.
+- **Jour 2** — 2026-08-16 : 5 commits atomiques sur un projet fictif (README qui évolue, TODO.md, NOTES.md), historique vérifié avec `git log --oneline --graph --all` et `git log --stat`. Remarque : `git add -p` testé mais pas utilisable dans ce shell non interactif — session interrompue sans dégât, repris avec `git add` classique.
