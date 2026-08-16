@@ -12,11 +12,11 @@
 
 Objectif : un terrain de jeu propre et un vrai dépôt GitHub relié.
 
-- [ ] Vérifier/installer `git`, configurer `user.name`, `user.email`, éditeur par défaut.
-- [ ] Configurer une clé SSH et l'ajouter à ton compte GitHub (pas de HTTPS + mot de passe).
-- [ ] Créer un dépôt GitHub vide `gitflow-dojo` (ou autre nom), le cloner en local.
-- [ ] Configurer `git config --global init.defaultBranch main`.
-- [ ] Créer un `.gitignore` de base et un premier commit "Initial commit".
+- [x] Vérifier/installer `git`, configurer `user.name`, `user.email`, éditeur par défaut.
+- [x] Configurer une clé SSH et l'ajouter à ton compte GitHub (pas de HTTPS + mot de passe).
+- [x] Créer un dépôt GitHub vide `gitflow-dojo` (ou autre nom), le cloner en local.
+- [x] Configurer `git config --global init.defaultBranch main`.
+- [x] Créer un `.gitignore` de base et un premier commit "Initial commit".
 
 **Défi du jour** : m'envoyer la sortie de `git remote -v`, `git config --list --local` (sans infos sensibles) et le lien du repo GitHub.
 
@@ -107,4 +107,4 @@ Un scénario complet, enchaîné sans étapes détaillées cette fois — à toi
 
 *(mis à jour au fil des sessions Claude Code)*
 
-- **Jour 1** — en attente
+- **Jour 1** — 2026-08-16 : dépôt GitHub `gitflow-dojo` créé et relié en local (SSH déjà configuré au préalable), branche par défaut `main`, `.gitignore` ajouté, premier commit poussé. Remarque : git, SSH et `init.defaultBranch` étaient déjà configurés globalement sur la machine, donc étapes rapides.
