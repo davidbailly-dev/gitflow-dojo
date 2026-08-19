@@ -2,21 +2,22 @@
 
 ## Description
 
-Ce projet permet d'apprendre et de se challenger avec git et GitHub avec la méthode "gitflow".
+Programme à piloter dans `claude code` pour apprendre ou revoir les bases de l'utilisation de `git` et `GitHub` en suivant la méthode `gitflow`.
 
-## Installation
+## Utilisation
 
-### 1. Exemple test :
+1. Créer un dossier
+2. Copier et coller les fichiers :
+    - CLAUDE.md
+    - PROGRAMME.md
+3. Dans un terminal, lancer :
+    ```
+    claude
+    ```
+4. Dans `claude code` écrire le premier prompt :
+    ```
+    On commence le programme du jour 1.
+    ```
+## Notes
 
-```
-npm install
-```
-
-### 2. Exemple de test 2 :
-
-Lorem ipsum
-
-
-### 3. Exemple de test 3 :
-
-Vini vidi vicci
+- Le contenu des fichiers créés pendants le projet est fictif, sauf pour les fichiers CLAUDE.md et PROGRAMME.md
