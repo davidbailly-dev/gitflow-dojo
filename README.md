@@ -25,4 +25,4 @@ Le contenu des fichiers créés pendants le projet est fictif, sauf pour les fic
 
 ## Tests
 
-- Test de `gitflow`
+- Test de `gitflow`.
