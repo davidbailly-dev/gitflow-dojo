@@ -23,6 +23,6 @@ Programme à piloter dans `claude code` pour apprendre ou revoir les bases de l'
 
 Le contenu des fichiers créés pendants le projet est fictif, sauf pour les fichiers CLAUDE.md et PROGRAMME.md
 
-## Contact
+## Tests
 
-Section contact de test
+- Test de `gitflow`
