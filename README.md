@@ -19,6 +19,10 @@ Programme à piloter dans `claude code` pour apprendre ou revoir les bases de l'
     On commence le programme du jour 1.
     ```
 
-## Contact
+## Notes
 
-Section contact de test
+Le contenu des fichiers créés pendants le projet est fictif, sauf pour les fichiers CLAUDE.md et PROGRAMME.md
+
+## Tests
+
+- Test de `gitflow`.
