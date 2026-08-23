@@ -28,3 +28,4 @@ Le contenu des fichiers créés pendants le projet est fictif, sauf pour les fic
 - Test de `gitflow`.
 - Test d'un hotfix
 - Ligne simulant un hotfix 1.1.2
+- Ligne simulant un hotfix 2.0.1
