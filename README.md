@@ -1,31 +1,21 @@
-# Projet GitFlow Dojo
+# GitFlow Dojo
 
 ## Description
 
-Programme à piloter dans `claude code` pour apprendre ou revoir les bases de l'utilisation de `git` et `GitHub` en suivant la méthode `gitflow`.
+Programme à piloter dans `claude code` pour apprendre ou revoir les bases de `git` et `GitHub` en suivant la méthode `gitflow` — des fondamentaux Git (branches, merges, rebase) jusqu'au cycle complet feature/release/hotfix, à la main puis avec l'outil `git-flow`.
 
 ## Utilisation
 
-1. Créer un dossier
-2. Copier et coller les fichiers :
-    - CLAUDE.md
-    - PROGRAMME.md
-3. Dans un terminal, lancer :
+1. Ce dossier contient déjà `CLAUDE.md` et `PROGRAMME.md`.
+2. Dans un terminal, se placer dans ce dossier et lancer :
     ```
     claude
     ```
-4. Dans `claude code` écrire le premier prompt :
+3. Dans `claude code`, écrire le premier prompt :
     ```
-    On commence le programme du jour 1.
+    On commence le jour 1.
     ```
 
 ## Notes
 
-Le contenu des fichiers créés pendants le projet est fictif, sauf pour les fichiers CLAUDE.md et PROGRAMME.md
-
-## Tests
-
-- Test de `gitflow`.
-- Test d'un hotfix
-- Ligne simulant un hotfix 1.1.2
-- Ligne simulant un hotfix 2.0.1
+Le contenu du code et des fichiers produits pendant le programme est fictif, seuls les fichiers `CLAUDE.md` et `PROGRAMME.md` définissent le déroulé du dojo.
